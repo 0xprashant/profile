@@ -14,7 +14,7 @@ baseurl: "/profile"
 username: 0xPrashant
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Penetration Tester , Bug Bounty Hunter , 
+typing_text: Penetration Tester | Aspirant Red Teamer
 # email: Your E-Mail address for the email button.
 email: prashant.saini345@gmail.com
 # For every social button you want to display, set your username or userid
@@ -32,7 +32,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
+about_me_description: I am <strong>Prashant Saini</strong> A Penetration Tester | Aspirant Red Teamer, Currently a 18 Y/O college going student who is into InfoSec since 2 years. I am Sharpening my skills on <a class="highlight-link" href="https://hackthebox.eu" target="_blank" >Hackthebox</a> and doing bug hunting. I post Hackthebox active/retired writeups on my  <a class="highlight-link" href="https://0xprashant.github.io" target="_blank" >Blog</a>.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -46,7 +46,7 @@ skills_title: Skills
 # show_timeline_card:
 # > setting this to true, will display the Timeline section
 # > setting this to false, will omit the Timeline section
-show_timeline_card: true
+show_timeline_card: false
 # timeline_title: The will be displayed as the title in the Timeline section
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
@@ -57,17 +57,17 @@ cv_download_link: https://example.com/
 # show_projects_card:
 # > setting this to true, will display the Projects section
 # > setting this to false, will omit the Projects section
-show_projects_card: true
+show_projects_card: false
 # show_projects:
 # > setting this to true, will display your listed projects in _data/projects.yml
 # > setting this to false, will omit your listed projects
-show_projects: true
+show_projects: false
 # projects_title: The will be displayed as the title of your projects
 projects_title: Projects
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
-show_os_projects: true
+show_os_projects: false
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Open Source Projects
 
@@ -79,7 +79,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
+contact_description: If You want to contact me , You can drop a DM on Twitter / LinkedIn or send me a Mail on my email
 
 # GITHUB-METADATA
 # Set this to your forked repository

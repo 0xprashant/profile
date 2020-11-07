@@ -5,29 +5,19 @@
 # - name: Framework
 #   weight: 5
 
-- name: Angular
-  weight: 5
-
-- name: AngularJS
-  weight: 3
-
-- name: React
+- name: Web Applcation Penetration Testing
   weight: 4
 
-- name: Node
+- name: Network Penetration Testing 
   weight: 1
 
-- name: Flutter
-  weight: 2
-
-- name: Express
+- name: Programming 
   weight: 3
 
-- name: Django
-  weight: 1
+- name: Red Teaming
+  weight: 4
 
-- name: Spring
+- name: Web Development
   weight: 2
 
-- name: Rails
-  weight: 4
+
